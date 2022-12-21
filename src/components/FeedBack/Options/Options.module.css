@@ -1,0 +1,19 @@
+.buttons button {
+  margin: 0 30px;
+  width: 100px;
+  height: 40px;
+  background-color: #fff;
+  font-size: 20px;
+  border-radius: 5px;
+  text-transform: capitalize;
+}
+
+.buttons button:hover {
+  background-color: blue;
+  color: #fff;
+}
+
+.buttons li {
+  list-style: none;
+  display: inline;
+}
